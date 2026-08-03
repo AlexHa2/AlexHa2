@@ -32,7 +32,7 @@ I'm **AlexHa**, a developer focused on building **modern web and mobile applicat
 
 <!-- ===================================================== -->
 
-<!--                 4. TECH STACK                        -->
+<!--                 3. TECH STACK                        -->
 
 <!-- ===================================================== -->
 
@@ -57,7 +57,7 @@ I'm **AlexHa**, a developer focused on building **modern web and mobile applicat
 
 <!-- ===================================================== -->
 
-<!--                   7. GITHUB STATS                     -->
+<!--                   4. GITHUB STATS                     -->
 
 <!-- ===================================================== -->
 
@@ -76,21 +76,24 @@ I'm **AlexHa**, a developer focused on building **modern web and mobile applicat
 
 <!-- ===================================================== -->
 
-<!--                 8. CONTRIBUTION                       -->
+<!--                 5. CONTRIBUTION                       -->
 
 <!-- ===================================================== -->
 
 ## 🐍 My Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AlexHa2/AlexHa2/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img
+    src="https://raw.githubusercontent.com/AlexHa2/AlexHa2/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
 </p>
 
 ---
 
 <!-- ===================================================== -->
 
-<!--                 9. GITHUB PROFILE                     -->
+<!--                 6. GITHUB PROFILE                     -->
 
 <!-- ===================================================== -->
 
@@ -110,7 +113,7 @@ I'm **AlexHa**, a developer focused on building **modern web and mobile applicat
 
 <!-- ===================================================== -->
 
-<!--                 10. CONNECT WITH ME                   -->
+<!--                 7. CONNECT WITH ME                   -->
 
 <!-- ===================================================== -->
 
@@ -132,7 +135,7 @@ I'm **AlexHa**, a developer focused on building **modern web and mobile applicat
 
 <!-- ===================================================== -->
 
-<!--                      11. FOOTER                       -->
+<!--                     8. FOOTER                       -->
 
 <!-- ===================================================== -->
 
