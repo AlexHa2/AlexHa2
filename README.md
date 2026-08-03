@@ -72,28 +72,10 @@ I'm **AlexHa**, a developer focused on building **modern web and mobile applicat
   <img src="https://streak-stats.demolab.com?user=AlexHa2&theme=tokyonight&hide_border=true" />
 </p>
 
----
 
 <!-- ===================================================== -->
 
-<!--                 5. CONTRIBUTION                       -->
-
-<!-- ===================================================== -->
-
-## 🐍 My Contribution Graph
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/AlexHa2/AlexHa2/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
-</p>
-
----
-
-<!-- ===================================================== -->
-
-<!--                 6. GITHUB PROFILE                     -->
+<!--                 5. GITHUB PROFILE                     -->
 
 <!-- ===================================================== -->
 
@@ -113,7 +95,7 @@ I'm **AlexHa**, a developer focused on building **modern web and mobile applicat
 
 <!-- ===================================================== -->
 
-<!--                 7. CONNECT WITH ME                   -->
+<!--                 6. CONNECT WITH ME                   -->
 
 <!-- ===================================================== -->
 
