@@ -9,6 +9,7 @@ jobs:
 generate:
 runs-on: ubuntu-latest
 
+```
 permissions:
   contents: write
 
@@ -27,4 +28,4 @@ steps:
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       BUILD_DIR: dist
-
+```
