@@ -53,8 +53,6 @@ I'm **AlexHa**, a developer focused on building **modern web and mobile applicat
 
 ---
 
----
-
 <!-- ===================================================== -->
 
 <!--                   4. GITHUB STATS                     -->
